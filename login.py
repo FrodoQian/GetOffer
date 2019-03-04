@@ -4,3 +4,5 @@ number = 30
 hahah 
 heihiehei
 number5 = 450
+ceshidaima a lhahah 
+buyaoguaiwoluosuo
